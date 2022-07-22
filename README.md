@@ -11,7 +11,11 @@ Brings new features to reactstrap-formik
 
 ## Getting Started
 
-    npm install reactstrap-formik
+    npm install --save reactstrap-formik-extended
+
+or
+
+    yarn add reactstrap-formik-extended
 
 ## Usage Examples
 * Text Input [Example](https://codesandbox.io/s/xl6mx6w8z4)

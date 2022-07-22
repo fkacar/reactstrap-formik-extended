@@ -1,6 +1,6 @@
 {
   "name": "reactstrap-formik-extended",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "bootstrap": "^4.5.2",
     "classnames": "^2.3.1",
