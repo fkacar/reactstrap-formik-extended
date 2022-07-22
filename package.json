@@ -1,6 +1,6 @@
 {
-  "name": "reactstrap-formik",
-  "version": "1.0.9",
+  "name": "reactstrap-formik-extended",
+  "version": "1.0.0",
   "dependencies": {
     "bootstrap": "^4.5.2",
     "classnames": "^2.3.1",
@@ -33,17 +33,18 @@
     "build-storybook": "build-storybook -c .storybook -o .out",
     "deploy-storybook": "storybook-to-ghpages"
   },
-  "author": "Shoaib Khan <shoaibkhan1994@gmail.com",
+  "author": "Fatih Kacar <info@fatihkacar.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shoaibkhan94/reactstrap-formik"
+    "url": "https://github.com/fkacar/reactstrap-formik-extended"
   },
   "keywords": [
     "formik",
     "react",
     "bootstrap4",
     "bootstrap",
-    "reactstrap"
+    "reactstrap",
+    "extended"
   ],
   "license": "MIT",
   "main": "dist/index.js",
