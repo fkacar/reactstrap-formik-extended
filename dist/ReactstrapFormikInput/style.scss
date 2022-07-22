@@ -1,0 +1,27 @@
+.has-append-addon {
+  input {
+    border-right: none !important;
+  }
+
+  .input-group-append {
+    span.input-group-text {
+      border-left: none !important;
+    }
+  }
+}
+
+.has-prepend-addon {
+  input {
+    border-left: none !important;
+  }
+
+  .input-group-prepend {
+    span.input-group-text {
+      border-right: none !important;
+    }
+  }
+}
+
+.invalid-feedback {
+  display: block !important;
+}
